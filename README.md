@@ -12,6 +12,9 @@ Simple python script to print \'Hello, World!\'.
 3. Present my projects and assignments
 
 **Bold Text**
+
 *Italic Text*
+
 \'Inline Code\'
+
 Link -  https://github.com/HanaDevonaldDavies/CFG-Project-1-HDD.git
