@@ -10,7 +10,7 @@ Project where I created a simple Python script to print \`Hello, World!\`.
 2. Work with peers and instructors
 3. Present work
 
-## Markdown Features Demonstrated
+## Features
 - **Bold Text**
 - *Italic Text*
 - \`Inline Code\`
